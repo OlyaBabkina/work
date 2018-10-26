@@ -1,0 +1,16 @@
+﻿Build started 25.10.2018 11:46:17.
+     1>Project "C:\Users\user\documents\visual studio 2013\Projects\dvoichnoe_ischislenie\dvoichnoe_ischislenie\dvoichnoe_ischislenie.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         E:\visual studio\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt Source.cpp
+         Source.cpp
+     1>c:\users\user\documents\visual studio 2013\projects\dvoichnoe_ischislenie\dvoichnoe_ischislenie\source.cpp(8): warning C4101: 'i' : unreferenced local variable
+     1>c:\users\user\documents\visual studio 2013\projects\dvoichnoe_ischislenie\dvoichnoe_ischislenie\source.cpp(27): warning C4800: 'int' : forcing value to bool 'true' or 'false' (performance warning)
+     1>c:\users\user\documents\visual studio 2013\projects\dvoichnoe_ischislenie\dvoichnoe_ischislenie\source.cpp(39): warning C4101: 'svalue' : unreferenced local variable
+       Link:
+         E:\visual studio\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\user\documents\visual studio 2013\Projects\dvoichnoe_ischislenie\Debug\dvoichnoe_ischislenie.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\user\documents\visual studio 2013\Projects\dvoichnoe_ischislenie\Debug\dvoichnoe_ischislenie.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\user\documents\visual studio 2013\Projects\dvoichnoe_ischislenie\Debug\dvoichnoe_ischislenie.lib" /MACHINE:X86 Debug\Source.obj
+         dvoichnoe_ischislenie.vcxproj -> C:\Users\user\documents\visual studio 2013\Projects\dvoichnoe_ischislenie\Debug\dvoichnoe_ischislenie.exe
+     1>Done Building Project "C:\Users\user\documents\visual studio 2013\Projects\dvoichnoe_ischislenie\dvoichnoe_ischislenie\dvoichnoe_ischislenie.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:01.59
